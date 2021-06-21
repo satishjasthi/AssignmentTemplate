@@ -22,3 +22,7 @@ ProjectRoot
 
 - Use python3.6 or above
 
+# To test the model and score it run
+```
+python src/test_model.py test_data.csv && python src/score_model.py Predictions.csv
+```

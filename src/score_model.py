@@ -4,6 +4,8 @@ based on
 - Accuracy 
 - f1 score
 
+usage: python score_model.py Predictions.csv
+
 Author: Satish Jasthi
 """
 import pandas as pd
